@@ -1,0 +1,11 @@
+C:\CengizProjects\DesingPatternOrnekleri\bin\Debug\netcoreapp2.2\DesingPatternOrnekleri.deps.json
+C:\CengizProjects\DesingPatternOrnekleri\bin\Debug\netcoreapp2.2\DesingPatternOrnekleri.runtimeconfig.json
+C:\CengizProjects\DesingPatternOrnekleri\bin\Debug\netcoreapp2.2\DesingPatternOrnekleri.runtimeconfig.dev.json
+C:\CengizProjects\DesingPatternOrnekleri\bin\Debug\netcoreapp2.2\DesingPatternOrnekleri.dll
+C:\CengizProjects\DesingPatternOrnekleri\bin\Debug\netcoreapp2.2\DesingPatternOrnekleri.pdb
+C:\CengizProjects\DesingPatternOrnekleri\obj\Debug\netcoreapp2.2\DesingPatternOrnekleri.csprojAssemblyReference.cache
+C:\CengizProjects\DesingPatternOrnekleri\obj\Debug\netcoreapp2.2\DesingPatternOrnekleri.csproj.CoreCompileInputs.cache
+C:\CengizProjects\DesingPatternOrnekleri\obj\Debug\netcoreapp2.2\DesingPatternOrnekleri.AssemblyInfoInputs.cache
+C:\CengizProjects\DesingPatternOrnekleri\obj\Debug\netcoreapp2.2\DesingPatternOrnekleri.AssemblyInfo.cs
+C:\CengizProjects\DesingPatternOrnekleri\obj\Debug\netcoreapp2.2\DesingPatternOrnekleri.dll
+C:\CengizProjects\DesingPatternOrnekleri\obj\Debug\netcoreapp2.2\DesingPatternOrnekleri.pdb
